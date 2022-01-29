@@ -7,7 +7,7 @@ Therefore this service is provided as is without any warranty whatsoever.
 All data is subject to change without notice.
 
 ### Description
-This repository contains the iCal file for the New Zealand Public Holidays from 2022 to 2032.
+This repository contains the iCal file for the New Zealand Public Holidays from 2022 to 2032.  
 It is provided for easy integration into your calendars.
 
 ### Note
